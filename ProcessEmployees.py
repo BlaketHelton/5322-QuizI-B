@@ -10,6 +10,7 @@ You will create a dictionary that has the full employee name as the key and only
 Iterate through the dictionary to print out their name and thier new salary (as shown in the image)
 '''
 
+
 import csv
 
 #open the file
